@@ -44,7 +44,7 @@
             font-size: 19px;
             font-weight: normal;
             margin: 0 0 14px 0;
-            padding: 14px 15px 10px 15px;
+            padding: 14px 0 10px;
         }
 
         code {
@@ -59,7 +59,7 @@
         }
 
         #body {
-            margin: 0 15px 0 15px;
+            /*margin: 0 15px 0 15px;*/
         }
 
         p.footer {
