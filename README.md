@@ -12,7 +12,7 @@
 
 ## 安装
 
-CodeIgniter框架解压即可开始使用, 无需安装过程。同样, 你只需`clone`该仓库就可以开始使用此脚手架。
+CodeIgniter框架解压即可开始使用, 无需安装过程。同样, 你只需下载最新的release就可以开始使用此脚手架。
 
 ## What's included
 
