@@ -40,6 +40,11 @@ class Wx_Controller extends CI_Controller
 
 ![qrcode][3]
 
+
+## License
+
+MIT License. Check the `LICENSE` file.
+
 [1]: https://github.com/SevenOutman/CodeIgniter-Weixin_Library
 [2]: https://codeigniter.com
 [3]: http://summer.emcbidding.com/test/demo.png
