@@ -1,4 +1,2 @@
 # CodeIgniter-Weixin_Template
-安装了微信网页授权模块的CodeIgniter框架
-
-##
+配备了[微信网页授权模块](https://github.com/SevenOutman/CodeIgniter-Weixin_Library)的CodeIgniter应用脚手架
